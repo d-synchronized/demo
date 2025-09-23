@@ -1,0 +1,4 @@
+spt_table,spt_alias,spt_column,mmc_table,mmc_column,status,notes
+SBSINTRMDRYBNK,r,ROUTINGNUMBER,Payment_Template_Party_Information (Inter Bank),routing_number (NEW),Missing/NEW,Add explicit routing_number to Party_Information
+BNKPMTBENE,b,BENEBANKRTGNUM,Payment_Template_Party_Information (Creditor Agent),routing_number (NEW),Missing/NEW,Add routing number field
+BNKPMTBENE,b,BENEEMAIL,Payment_Template_Party_Information (Beneficiary),email (NEW),Missing/NEW,Add email to Party_Information

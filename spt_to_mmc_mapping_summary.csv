@@ -1,0 +1,15 @@
+spt_table,spt_alias,status,count
+BNKInstrTmpl,t,Approximate,6
+BNKInstrTmpl,t,Exact/covered,1
+BNKInstrTmpl,t,Unmapped,14
+BNKPMTBENE,b,Approximate,6
+BNKPMTBENE,b,Exact/covered,10
+BNKPMTBENE,b,Missing/NEW,2
+BNKPMTBENE,b,Unmapped,32
+BNKWIREINSTRTMPL,wt,Approximate,12
+BNKWIREINSTRTMPL,wt,Exact/covered,7
+BNKWIREINSTRTMPL,wt,Unmapped,35
+SBSINTRMDRYBNK,r,Approximate,6
+SBSINTRMDRYBNK,r,Exact/covered,5
+SBSINTRMDRYBNK,r,Missing/NEW,1
+SBSINTRMDRYBNK,r,Unmapped,27
